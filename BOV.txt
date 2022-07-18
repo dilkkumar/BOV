@@ -1,0 +1,6 @@
+Is GitHub for free?
+You can use organizations for free, with GitHub Free, which includes limited features on private repositories.
+
+
+Why is GitHub so popular?
+Because of its impressively sizeable community of 36 million (and counting), posting your code on Github gives you unmatched exposure and insight. Gaining insight on your own code is just the beginning. You can also discover code written by others and both learn from it or use it in your own projects
